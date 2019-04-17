@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=turn
+comment1.target=boolean\ checkWhiteTurn(int)
+numComments=2
